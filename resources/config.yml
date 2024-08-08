@@ -1,0 +1,14 @@
+---
+formTitle: "§4§l-= §r§6VoidStone §4§l=-§r"
+takeAllMessage: "§aYou have taken all items from VoidStone"
+takeOneItemMessage: "§aYou have taken {item} x{amount} from VoidStone" # {item} and {amount} will be replaced with the item name and amount and are required
+contentForm: "Chose items to take from VoidStone"
+voidStoneEmpty: "§cVoidStone is empty"
+AllItemsTakenButton: "§4Take all items"
+stackableItemsMessage: "§4You can't take stackable items from VoidStone"
+item: "compass"
+itemsStockable:
+  - "stone"
+  - "dirt"
+  - "cobblestone"
+---

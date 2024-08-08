@@ -1,0 +1,5 @@
+name: VoidStone-PM5
+version: 1.0.0
+main: Tytan\Main
+api: 5.0.0
+author: Tytan
